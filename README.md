@@ -1,24 +1,17 @@
 <div align="center">
-  <h1>⚙️ Oguzhanc19</h1>
-  <p><i>Project Repository / Proje Deposu</i></p>
+  <h1>👋 Welcome to My Profile</h1>
+  <p><i>My GitHub Profile Repository<br>Kişisel GitHub Profil Depom</i></p>
+  ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 </div>
 
 <br>
 
 ## 🇬🇧 English
-Welcome to the **Oguzhanc19** repository. This project contains scripts, assets, and source code crafted to solve specific problems or automate tasks.
 
-### ✨ Features
-- 🚀 High performance & clean code structure.
-- 🧩 Easy to integrate and modify.
-- 💻 Built for efficiency.
+Welcome to my personal GitHub profile repository. This special repository acts as the front page of my GitHub account, detailing my skills, current projects, and contact information through Markdown formatting and dynamic badges.
 
 ---
 
 ## 🇹🇷 Türkçe
-**Oguzhanc19** reposuna hoş geldiniz. Bu proje, belirli problemleri çözmek veya görevleri otomatikleştirmek amacıyla hazırlanmış betikler, kaynak dosyalar ve kodlar içerir.
 
-### ✨ Özellikler
-- 🚀 Yüksek performanslı ve temiz kod yapısı.
-- 🧩 Kolayca entegre edilebilir ve değiştirilebilir.
-- 💻 Verimlilik odaklı geliştirilmiştir.
+Kişisel GitHub profil repoma hoş geldiniz. Bu özel depo, GitHub hesabımın vitrini (ana sayfası) görevi görür; Markdown dilini ve dinamik rozetleri (badges) kullanarak yeteneklerimi, güncel projelerimi ve iletişim bilgilerimi sergiler.
