@@ -4,7 +4,7 @@
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oguzhancilkurt/)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Oguzhanc19)
-  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cilkurtoguzhan@gmail.com)
+  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](oguzhan196060@gmail.com)
 
 </div>
 
@@ -52,14 +52,14 @@ Bilgisayar Mühendisiyim; İletim Mühendisliği ve Ağ Sistemleri alanında ça
 ### 📊 GitHub Stats / İstatistikler
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Oguzhanc19&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Oğuzhan's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-languages/?username=Oguzhanc19&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
+  <img height="185" src="https://github-readme-stats.vercel.app/api?username=Oguzhanc19&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Oğuzhan's GitHub Stats" />
+  <img height="185" src="https://github-readme-streak-stats.herokuapp.com/?user=Oguzhanc19&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oguzhanc19&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Oguzhanc19&theme=tokyonight&margin-w=15&row=1" alt="GitHub Trophies" />
 </div>
 
 ---
