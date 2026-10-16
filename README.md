@@ -58,9 +58,7 @@ Bilgisayar Mühendisiyim; İletim Mühendisliği ve Ağ Sistemleri alanında ça
 
 <br />
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Oguzhanc19&theme=tokyonight&margin-w=15&row=1" alt="GitHub Trophies" />
-</div>
+
 
 ---
 
